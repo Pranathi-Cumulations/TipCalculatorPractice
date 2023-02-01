@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         buttonView.setOnClickListener({
-            startActivity(Intent(this , SecondActivity::class.java))
+            startActivity(Intent(this , ThirdActivity::class.java))
         })
 
 
